@@ -1,0 +1,10 @@
+c1 arrived
+connection 1: c1 occupied
+c2 arrived
+connection 2: c2 occupied
+connection 1: c1Log in
+connection 2: c2Log in
+connection 1: c1Performs Online activity
+connection 1: c1Logged Out
+connection 2: c2Performs Online activity
+connection 2: c2Logged Out
